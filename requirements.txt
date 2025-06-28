@@ -1,7 +1,7 @@
-   requests
-   firecrawl-py
-   openai
-   streamlit
-   llama-parse
-   llama-index
-   watchdog
+requests
+firecrawl-py
+openai
+streamlit
+llama-parse
+llama-index
+watchdog
